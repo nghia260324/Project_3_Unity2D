@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fd6600756c44748a3585dcd0068774, type: 3}
+  m_Name: Soldier_2(Cost)
+  m_EditorClassIdentifier: 
+  id: 1
+  foodCosts: 500000
+  woodCosts: 200000
+  stoneCosts: 100000
+  cointCosts: 70000
+  gemCosts: 1200
+  timeTraining: 2700

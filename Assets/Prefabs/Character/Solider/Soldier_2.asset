@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86c36deeeae8a04f9f5e54dae3bba85, type: 3}
+  m_Name: Soldier_2
+  m_EditorClassIdentifier: 
+  id: 1
+  nameSolider: Soldier 2
+  textureSolider: {fileID: 8400000, guid: a21c76861b35e7e418bfd3889ca1375a, type: 2}
+  damageSolider: 10
+  healthSolider: 200
+  speedSolider: 1
+  armorSolider: 15
+  level: 20
+  status: 0
+  descibe: Gaur with gleaming golden armor, sharp horns, embodies the image of a
+    brave and formidable warrior. The meticulous training has turned it into a true
+    warrior, ready for battle.
+  costs: {fileID: 11400000, guid: 12f319a963f631242ac9d080e6f8ec73, type: 2}

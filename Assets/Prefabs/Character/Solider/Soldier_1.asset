@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86c36deeeae8a04f9f5e54dae3bba85, type: 3}
+  m_Name: Soldier_1
+  m_EditorClassIdentifier: 
+  id: 0
+  nameSolider: Soldier 1
+  textureSolider: {fileID: 8400000, guid: f849b104cc3aa5f4d9733c0e3b0bd385, type: 2}
+  damageSolider: 20
+  healthSolider: 100
+  speedSolider: 3
+  armorSolider: 10
+  level: 10
+  status: 1
+  descibe: With the golden armor along with a large shield and a short sword, we
+    witness the bravery and strength of the dwarven race.
+  costs: {fileID: 11400000, guid: 402d188dcef98f24384e3f16b0cd7ef2, type: 2}
